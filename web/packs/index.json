@@ -1,6 +1,16 @@
 {
   "packs": [
-    "Aiyoku_no_Eustia.json"
+    "Aiyoku_no_Eustia.json",
+    "Daitoshokan_no_Hitsujikai_Library_Party.json",
+    "Senmomo_Character.json",
+    "line1405873f14d_by_moe_sticker_bot.json",
+    "line12188524a03c_by_moe_sticker_bot.json",
+    "line20640489f1ed_by_moe_sticker_bot.json",
+    "Brighter_than_dawning_blue.json",
+    "kdgirl_by_moe_sticker_bot.json",
+    "VisualNovelClubRB_by_moe_sticker_bot.json",
+    "VisualNovelClub2_by_moe_sticker_bot.json",
+    "VisualNovelClub3_by_moe_sticker_bot.json"
   ],
   "homeserver_url": "https://matrix.envs.net"
 }
